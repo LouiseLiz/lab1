@@ -1,6 +1,20 @@
-Comecei o projeto conforme os vídeos disponibilizados na DIO - Armazenando dados de um E-Commerce na Cloud.
-Realizei a criação, na Azure, dos seguintes recursos: o Grupo de Recursos lab1, a Conta de Armazenamento stadevlab1eastus1, o SQL Server dbsrvdeveastuslab1 e o Banco de Dados SQL sqllab1dbdeveastus (dbsrvdeveastuslab1/sqllab1dbdeveastus).
-Criei meu repositório no meu computador para depois subir para o GitHub.
-Ao realizar a instalação das bibliotecas do Python, descobri que a versão que eu estava utilizando não tinha suporte ao pymssql, então precisei buscar uma versão anterior para dar prosseguimento ao projeto.
-Foi uma experiência muito enriquecedora esse primeiro laboratório, pois a cada erro precisei pesquisar a solução, o que me fez aprofundar bastante meus conhecimentos.
-Estou muito animada para os próximos!
+Avançando na jornada de Cloud!
+
+Iniciei o projeto seguindo os vídeos do curso "Armazenando dados de um E-Commerce na Cloud" oferecido pela DIO.
+Durante o laboratório, realizei a criação dos seguintes recursos na Azure:
+
+    Grupo de Recursos: lab1
+
+    Conta de Armazenamento: stadevlab1eastus1
+
+    SQL Server: dbsrvdeveastuslab1
+
+    Banco de Dados SQL: sqllab1dbdeveastus (dbsrvdeveastuslab1/sqllab1dbdeveastus)
+
+Configurei também um repositório local no meu computador, com a intenção de posteriormente publicá-lo no GitHub.
+
+Durante a instalação das bibliotecas Python, identifiquei que a versão que eu estava utilizando não era compatível com o pymssql. Isso me levou a pesquisar e utilizar uma versão anterior, o que possibilitou a continuidade do projeto.
+
+Cada desafio encontrado foi uma oportunidade de aprendizado e me permitiu aprofundar ainda mais meus conhecimentos. Foi uma experiência extremamente enriquecedora e estou muito animada para os próximos laboratórios! 🌟
+
+#Azure #CloudComputing #DataStorage #Python #DIO #AprendizadoContínuo
